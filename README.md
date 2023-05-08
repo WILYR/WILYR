@@ -1,34 +1,35 @@
 # -WILYR-
-
+🤍 💙 ❤️
 
 ## Specialization
-:turtle: DevOps engineer
+🦜 **DevOps engineer** 🦜
+
 ## Work skills:
 #### From more used to less(left to right)
 
 ```yaml
-Admin: Linux: Ubuntu, Kali, RedOs, AstraLinux, Windows
+Admin: Linux: Ubuntu, RedOs, AstraLinux, CENTOS, Windows
 Lang: Go(Main), Bash, SQL, Java
 DBa2: Postgresql, Cassandra, SQL Server, MySQL
 Containers: Docker
-Orchestration: Docker-swarm
+Orchestration: Docker-swarm, Kubernetes
 Monitoring: Zabbix
 CI/CD: Gitlab, Travis
 Manage conf: SaltStack
-Web Server: Nginx, Apache, Tomcat
+Web Server: Nginx, Tomcat, Jetty, Apache
 Balancer: Haproxy
-Queues: ActiveMQ
-Repo: Nexus
+Queues: ActiveMQ, RabbitMQ
+Repo: Nexus, Harbour
 Build tools: Gradle, Dotnet, Maven, Yarn
 Firewall: Iptables, Ufw, Ssl cert's
-Another: Map tiles, Gitlab server, Ntp, Mail, JSON/CSV/XML/YAML
+Another: OSM Map tiles, Nominatim, Gitlab server, Ntp, Mail, JSON/CSV/XML/YAML
 ```
 ## Used by me:
 
 ```Properties
-OS = KALI
+OS =  ALT Workstation K 10.1 (Sorbaronia Mitschurinii) x86_64
 VIRT = VIRTUALBOX
-IDE = IDEA, VSCODE
-BROWSER = VIVALDI
+IDE = VSCODE, SUBLIME, IDEA
+BROWSER = VIVALDI/LIBREWOLF
 NOTES = OBSIDIAN
 ```
